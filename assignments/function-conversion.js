@@ -9,7 +9,7 @@ let myFunction = () => { console.log("Function was invoked!"); }
 //   return param;
 // };
 // anotherFunction("Example");
-let myFunction = () => {}
+let myFunction = (param) => { return param; }
 // let add = function (param1, param2) {
 //   return param1 + param2;
 // };
