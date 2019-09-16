@@ -19,7 +19,7 @@ let myFunction = (param1, param2) => { return param1 + param2; }
 //   return param1 - param2;
 // };
 // subtract(1,2);
-let myFunction = () => {}
+let myFunction = (param1, param2) => { return param1 - param2; }
 
 // Stretch
 
